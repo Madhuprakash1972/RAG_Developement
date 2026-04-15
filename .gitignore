@@ -1,0 +1,14 @@
+# Python environment
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Local Data and Databases
+data/documents/*
+data/chroma_db/
+!data/documents/.gitkeep
+
+# Large Model Binaries
+models/llm/*.gguf
+models/embedding/
