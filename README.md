@@ -27,4 +27,4 @@ To keep the repository lightweight, models are not included. Please download the
 
 1. **Install required packages:**
    ```bash
-   pip install langchain langchain-community llama-cpp-python sentence-transformers chromadb pypdf
+   pip install -r requirement.txt
