@@ -11,4 +11,4 @@ data/chroma_db/
 
 # Large Model Binaries
 models/llm/*.gguf
-models/embedding/
+models/embedding/*
